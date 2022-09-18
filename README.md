@@ -4,7 +4,7 @@ A world clock application built to demonstrate logging with [Loguru](https://git
 
 **Tutorial**: [How to Start Logging with Loguru](#).
 
-![Django World Clock](screenshot.png).
+![Django World Clock](screenshot.png)
 
 ## 🟢 Prerequisites
 
@@ -31,7 +31,7 @@ You must have the latest version of [Python 3](https://www.python.org) installed
   ```
 
 - Activate the virtual environment.
-  
+
   On Windows, run:
 
   ```bash
@@ -45,13 +45,13 @@ You must have the latest version of [Python 3](https://www.python.org) installed
   ```
 
 - `cd` into the `djangoWorldClock` app directory:
-  
+
   ```bash
   cd djangoWorldClock
   ```
 
 - Install the requirements:
-  
+
   ```bash
   python -m pip install -r requirements.txt
   ```
