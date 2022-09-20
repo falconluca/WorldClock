@@ -1,9 +1,10 @@
 from django.shortcuts import render, redirect
 import requests
-
+import uuid
 
 # Create your views here.
 def home(request):
+    request.session["id"] = str(uuid.uuid4())
 
     return render(request, "home.html")
 
