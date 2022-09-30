@@ -2,7 +2,7 @@
 
 A world clock application built to demonstrate logging with [Loguru](https://github.com/Delgan/loguru).
 
-**Tutorial**: [How to Start Logging with Loguru](#).
+**Tutorial**: [A Complete Guide to Logging in Python with Loguru](https://betterstack.com/community/guides/logging/loguru/).
 
 ![Django World Clock](screenshot.png)
 
